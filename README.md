@@ -64,27 +64,35 @@ print("RMSE= ",rmse)
 
 ## Output:
 df.head
+
 ![Screenshot 2025-03-08 142157](https://github.com/user-attachments/assets/cf63fe30-97c5-4ebc-bf8f-f6bb1cdae51f)
 
 df.tail
+
 ![Screenshot 2025-03-08 142208](https://github.com/user-attachments/assets/b6b5bedd-730d-40e6-97c0-88467adaa0b1)
 
 Array value of X
+
 ![Screenshot 2025-03-08 142245](https://github.com/user-attachments/assets/8301e1b6-f614-41f7-b06a-d2ada3859b6e)
 
 Array value of Y
+
 ![Screenshot 2025-03-08 142312](https://github.com/user-attachments/assets/de4d861c-55f2-487f-9e2f-e7a791acbf7e)
 
 Values of Y prediction
+
 ![Screenshot 2025-03-08 142322](https://github.com/user-attachments/assets/b741b9fc-f761-4313-9a1c-e07658346e05)
 
 Array values of Y test
+
 ![Screenshot 2025-03-08 142349](https://github.com/user-attachments/assets/45945a7f-bab1-4aef-b460-9c64c7516651)
 
 Training Set Graph
+
 ![Screenshot 2025-03-08 142425](https://github.com/user-attachments/assets/dc16a289-a912-4372-85b3-f25fad620d4b)
 
 Test set graph
+
 ![Screenshot 2025-03-08 142439](https://github.com/user-attachments/assets/87e53c29-d834-4c61-b9cc-79d7fc0c9f58)
 
 Values of MSE, MAE and RMSE
